@@ -1,0 +1,10 @@
+greeting = ('Hi there!')
+print(greeting)
+name = input('What is your name? ')
+mood =input('How are you? ')
+print(' Hi ' + name + ' nice to hear you are doing ' + mood)
+weight_lbs = input('How much do you weigh? (lbs)? ')
+weight_kilograms = int(weight)*0.454
+print(weight_kilograms)
+outro = 'Have a great day!'
+print(outro)
